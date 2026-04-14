@@ -8,6 +8,6 @@ moviepy
 openai-whisper
 transformers
 sentencepiece
-torch==2.1.2+cpu
+torch==2.11.0+cpu
 ffmpeg-python
 python-dotenv
