@@ -39,8 +39,6 @@
 
 </div>
 
-> 📁 Create a `screenshots/` folder in the repo root, add your screenshots, and rename them to `upload.png`, `summary.png`, and `qa.png`.
-
 ---
 
 ## ✨ What It Does
