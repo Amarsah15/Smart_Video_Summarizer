@@ -1,11 +1,13 @@
-fastapi 
-uvicorn 
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+fastapi
+uvicorn
 gunicorn
-python-multipart 
-moviepy 
-openai-whisper 
-transformers 
-sentencepiece 
-torch 
+python-multipart
+moviepy
+openai-whisper
+transformers
+sentencepiece
+torch==2.1.2+cpu
 ffmpeg-python
 python-dotenv
