@@ -35,7 +35,7 @@
 
 ### Summary Output
 
-![Summary Screen](screenshots/summary.png)
+![Summary Screen](/frontend/screenshots/summary.png)
 
 </div>
 
