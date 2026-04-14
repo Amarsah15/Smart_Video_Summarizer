@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables - NEVER commit this
+.env
+.env.*
+!.env.example
+
+# Uploaded videos (temporary processing files)
+uploads/
+outputs/*.wav
+outputs/*.mp3
+outputs/*.mp4
+
+# Job history database
+outputs/job_history.sqlite3
+outputs/*.sqlite3
+outputs/*.db
+
+# Whisper model cache
+~/.cache/whisper/
+
+# HuggingFace model cache
+~/.cache/huggingface/
+.cache/
+
+# PyTorch / ML model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.h5
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/

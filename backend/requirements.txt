@@ -1,0 +1,11 @@
+fastapi 
+uvicorn 
+gunicorn
+python-multipart 
+moviepy 
+openai-whisper 
+transformers 
+sentencepiece 
+torch 
+ffmpeg-python
+python-dotenv

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+venv/
+.env
+
+# Node
+node_modules/
+
+# Uploads & media
+uploads/
+*.mp4
+*.avi
+*.mov
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+dist/
